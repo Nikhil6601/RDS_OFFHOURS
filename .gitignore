@@ -1,0 +1,11 @@
+code/*/
+code/six.py
+.terraform/
+venv/
+terraform.tfstate
+terraform.tfstate.backup
+code.zip
+.terraform.lock.hcl
+.DS_Store
+.idea/
+.gitattributes
