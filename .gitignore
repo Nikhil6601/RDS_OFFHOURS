@@ -1,0 +1,10 @@
+rds-offhours-us*/code/*/
+rds-offhours-us*/code/six.py
+rds-offhours-us*/.terraform/
+rds-offhours-us*/venv/
+rds-offhours-us*/terraform.tfstate
+rds-offhours-us*/terraform.tfstate.backup
+rds-offhours-us*/code.zip
+rds-offhours-us*/.terraform.lock.hcl
+.DS_Store
+.idea/
