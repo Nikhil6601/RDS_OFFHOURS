@@ -1,5 +1,5 @@
 aws_region = "us-east-1"
-webhook_url = "https://hooks.slack.com/services/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"
+webhook_url = "https://hooks.slack.com/services/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"
 slack_channel = "#mercloud_costoptimization_alert"
 work_start_hour = "07"
 work_start_min = "50"
